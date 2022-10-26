@@ -1,0 +1,38 @@
+/********** tag selectors **********/
+body {
+  text-align: center;
+  background-color: #BCCEF8;
+  margin: 0;
+}
+
+div {
+  background-color: white;
+  text-align: center;
+  height: 720px;
+  margin: 171.2px 403px;
+  border-radius: 20px;
+}
+
+h1 {
+  display: inline-block;
+  width: 400px;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 33px;
+}
+
+img {
+  border-radius: 5%;
+  width: 403px;
+  height: 403px;
+  margin-top: 25px;
+}
+
+p {
+  font-size: 23px;
+  display: inline-block;
+  width: 350px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  color: #495C83;
+  margin: 7px 0 0;
+}
